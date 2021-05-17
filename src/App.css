@@ -1,0 +1,26 @@
+
+.img{
+ 
+    right: 500px;
+    top: 100px;
+    z-index: 1;
+}
+.sky{
+    background-color: lightblue;
+    height: 400px;
+}
+.sea{
+    width: 100%;
+    height: 230px;
+}
+.ship{
+    width: 300px;
+}
+.bgsea{
+    background-image: url(./images/sea.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100% !important;
+    height: 230px;
+}
